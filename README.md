@@ -1,0 +1,5 @@
+- This is a familiar Snake Game from my course Programming Technology. 
+- In this game we need to move the snake to eat food, dodge rocks in the way.
+- Each time eating food, the snake grows 1 unit.
+- This game also has ranking attribute to show top 10 players with highest score (Working with database).
+- I use GUI to create Window, Menu, Menu Button, Game Screen, objects like Snake, Rock, Food and color them.
